@@ -1,56 +1,19 @@
-# Ogirala Srivalli's Portfolio
+# Ogirala Srivalli  
+*Aspiring Developer | Intern at Dronacharya Tech Hub*  
 
-**Ogirala Srivalli**  
-Phone: 7207954692 | Email: [vallyogirala@gmail.com](mailto:vallyogirala@gmail.com)  
-Address: 1-87, near Ganganamma Temple, Chinnaogirala - 521245, Andhra Pradesh
+🚀 Passionate about programming and problem-solving, with a strong foundation in C and HTML.  
 
----
+## 📌 About Me  
+🔹 Motivated to grow professionally and apply my skills to contribute to organizational success.  
+🔹 Currently interning at *Dronacharya Tech Hub*, gaining hands-on experience.  
+🔹 Focused on strengthening my technical abilities in C programming and web development.  
 
-### **Objective**
+## 🏆 Projects  
+- **Internship at Dronacharya Tech Hub** – Worked on various technical projects, contributing to team development and problem-solving.  
+- **C Programming Projects** – Developed small-scale programs using C for practical learning and problem-solving.  
 
-To work in an environment that encourages me to succeed and grow professionally, where I can utilize my skills and knowledge to contribute to the organization’s success.
-
----
-
-### **Education**
-
-- **Intermediate**  
-  *Sri Chaitanya Junior College* (2023)  
-  **Score:** 958/1000
-
-- **Secondary School Certificate (SSC)**  
-  *Sri Srinivasa Aksharalayam* (2021)  
-  **Grade:** 10.0
-
----
-
-### **Skills**
-
-- **Languages:**  
-  - C Programming (Level 2)  
-  - HTML (Level 1)
-
-- **Core Competencies:**  
-  - Problem Solving  
-  - Decision Making
-
----
-
-### **Projects**  
-- **Intern at Dronacharya Tech Hub**
-
----
-
-### **Languages**
-
-- **English**  
-- **Telugu**
-
----
-
-Feel free to explore and reach out to me for collaborations or job opportunities!
-
----
-
-**GitHub:** [My GitHub Profile](https://github.com/your-username)  
-**LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/your-profile)
+## 📬 Contact Me  
+📧 Email: [vallyogirala@gmail.com](mailto:vallyogirala@gmail.com)  
+📞 Phone: 7207954692  
+🔗 LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/yourname)  
+💻 GitHub: [github.com/OgiralaSrivalli](https://github.com/OgiralaSrivalli)  
